@@ -1,5 +1,5 @@
 ![Pixellated banner image](./images/banner.jpeg)
-# Hi, I'm Rezzie 👋🏽☺️ (she/her)
+# Hi, I'm Rezzie 👋🏽☺️
 
 I'm a Senior Software Engineer with 7+ years building WordPress platforms, internal tooling, and full-stack web applications. 
 Based in Trinidad & Tobago 🇹🇹
