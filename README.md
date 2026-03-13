@@ -3,7 +3,7 @@
 
 > **I couldn't afford a developer over a decade ago, so I became one! 😄**
 
-Now I'm a **Senior Software Engineer** with 7+ years experience building WordPress platforms, internal tooling, and full-stack web applications. 
+Now I'm a **Senior Software Engineer** with 7+ years professional experience building WordPress platforms, internal tooling, and full-stack web applications. 
 Based in Trinidad & Tobago 🇹🇹
 
 ## I'm currently ...
