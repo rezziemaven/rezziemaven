@@ -9,7 +9,7 @@ Based in Trinidad & Tobago 🇹🇹
 ## I'm currently ...
 
 ```text
-🔭 Building CubePB — a Rubik's cube solve logger built with Deno, Hono and Supabase
+🔭 Building CubePB: a Rubik's cube solve logger built with Deno, Hono and Supabase
 🌱 Deepening my knowledge in Go and Deno
 📖 Open to new opportunities
 ```
