@@ -1,4 +1,4 @@
-![Pixellated banner image](./images/banner.jpeg)
+![Pixellated banner image](./images/banner-v3.jpeg)
 # Hi, I'm Rezzie 👋🏽☺️ 
 
 > **I couldn't afford a developer over a decade ago, so I became one! 😄**
