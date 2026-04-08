@@ -7,7 +7,7 @@ Based in Trinidad & Tobago 🇹🇹
 ## I'm currently ...
 
 ```text
-🔭 Building the backend for MyLogs: a solution for keeping logs for all your activities in one place (built with Deno, Hono and TypeScript)
+🔭 Building the backend for MyLogs: a flexible logger for all your activities (built with Deno, Hono and TypeScript)
 🌱 Deepening my backend knowledge and experience in Python, Go and Deno
 📖 Open to new opportunities (open source contributions, new roles, freelancing and other collaborations)
 ```
