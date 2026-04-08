@@ -1,24 +1,22 @@
 ![Pixellated banner image](./images/banner-v3.jpeg)
 # Hi, I'm Rezzie 👋🏽☺️ 
 
-> **I couldn't afford a developer over a decade ago, so I became one! 😄**
-
-Now I'm a **Senior Software Engineer** with 7+ years professional experience building WordPress platforms, internal tooling, and full-stack web applications. 
+I'm a **Senior Software Engineer** with 7+ years professional experience building WordPress platforms, internal tooling, and full-stack web applications. 
 Based in Trinidad & Tobago 🇹🇹
 
 ## I'm currently ...
 
 ```text
-🔭 Building CubePB: a Rubik's cube solve logger built with Deno, Hono and Supabase
-🌱 Deepening my knowledge in Go and Deno
-📖 Open to new opportunities
+🔭 Building the backend for MyLogs: a solution for keeping logs for all your activities in one place (built with Deno, Hono and TypeScript)
+🌱 Deepening my backend knowledge and experience in Python, Go and Deno
+📖 Open to new opportunities (open source contributions, new roles, freelancing and other collaborations)
 ```
 
 ## What I bring
 
 - **7+ years of full-stack experience** delivering for both clients and employers
 - **Deep experience in remote-first, async environments** across globally distributed teams
-- Experience across a **wide array of languages and frameworks** including JavaScript, TypeScript, PHP, Go, React, Node.js and more
+- Experience across a **wide array of languages and frameworks** including JavaScript, TypeScript, PHP, Go, Python, React, Node.js and more
 - A track record of **translating ambiguous requirements into clear, concrete solutions**
 - **Building internal tooling and systems** that improve developer workflows and scale reliably
 - **Managing stakeholder expectations** across technical and non-technical audiences
