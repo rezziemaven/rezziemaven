@@ -22,7 +22,7 @@ Based in Trinidad & Tobago 🇹🇹
 - **Managing stakeholder expectations** across technical and non-technical audiences
 
 ## Featured Projects
-
+- **[noodle-ai-agent](https://github.com/rezziemaven/noodle-ai-agent):** An AI Agent written in Python for performing coding tasks in a specified working directory. Adds ability to switch between the Gemini and Ollama SDKs, log function calls and token usage in verbose mode, and more!
 - **[brutils](https://github.com/rezziemaven/brutils):** CLI tooling for Docker-based WordPress development with Roots Bedrock configurations
 - **[WP Templates](https://github.com/rezziemaven/wp-template):** CLI tooling for adding a simple README.md, .gitignore and composer.json to your custom WordPress theme or plugin
 - **[Versus BE](https://github.com/rezziemaven/versus-be):** Sports ranking API for the [Versus](https://github.com/OliWalker/versus-fe) platform with ELO-based leaderboards
